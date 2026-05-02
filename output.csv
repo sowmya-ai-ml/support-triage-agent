@@ -1,0 +1,6 @@
+status,product_area,response,justification,request_type
+escalated,payments,This issue is escalated to support team.,Rule-based classification,product_issue
+replied,assessments,We are reviewing your request.,Rule-based classification,bug
+replied,ai,We are reviewing your request.,Rule-based classification,feature_request
+replied,general,We are reviewing your request.,Rule-based classification,product_issue
+escalated,payments,This issue is escalated to support team.,Rule-based classification,product_issue
